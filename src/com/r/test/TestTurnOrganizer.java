@@ -12,7 +12,7 @@ import com.r.utility.TurnPhases;
  * The class <code>TestTurnOrganizer</code> contains tests for the class
  * <code> {@link GameBoard}</code>
  * 
- * @author Raghav verma
+ * @author Nayan Girase
  * @version 1.0
  */
  public class TestTurnOrganizer{
