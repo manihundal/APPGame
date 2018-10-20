@@ -7,7 +7,7 @@ package com.r.model;
  * the state of the object.
  * 
  * @author Raghav verma
- * @version 1.0.0.0
+ * @version 1.0.0
  */
 public class Edge implements Comparable {
 	private static int counter = 0;
