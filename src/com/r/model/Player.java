@@ -5,11 +5,11 @@ import java.util.List;
 
 /**
  * This class is used to represent a player. it maintains data variables like
- *  id and name of the player and  also it
+ * id and name of the player and  also it
  * has different methods to change the status of the object.
  * 
  * @author Manjinder Kaur
- * @version 1.0.0.0
+ * @version 1.0.0
  */
 
 public class Player {
