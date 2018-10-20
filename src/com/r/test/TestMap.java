@@ -22,7 +22,7 @@ import com.r.model.Player;
  * The class <code>TestMap</code> contains tests for the class
  * <code> {@link Map}</code>
  * 
- * @author Raghav verma
+ * @author Sukhmeet kaur
  * @version 1.0
  */
 
