@@ -23,7 +23,7 @@ import org.junit.Test;
  * The class <code>TestMapParser</code> contains tests for the class
  * <code> {@link MapParser}</code>
  * 
- * @author Raghav verma
+ * @author Sukhmeet Kaur
  * @version 1.0
  */
 
