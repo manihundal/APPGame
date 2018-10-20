@@ -13,7 +13,7 @@ import com.r.utility.StaticVariables;
  * name, lands which are the collections of both countries and continents as well
  * as connectivities which in this application is known as edge.
  * 
- * @author Raghav verma
+ * @author Manjinder Kaur
  *
  */
 
