@@ -8,7 +8,7 @@ import java.util.List;
  *  id and name of the player and  also it
  * has different methods to change the status of the object.
  * 
- * @author Raghav verma
+ * @author Manjinder Kaur
  * @version 1.0.0.0
  */
 
