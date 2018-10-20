@@ -22,7 +22,7 @@ import com.r.utility.StaticVariables;
  * This class belongs to a listener which is used to place armies on a country when
  * a corresponding event occurs on the front end.
  * 
- * @author Raghav verma
+ * @author Sukhmeet Kaur
  * @version 1.0
  */
 public class PlaceArmies implements ActionListener {
