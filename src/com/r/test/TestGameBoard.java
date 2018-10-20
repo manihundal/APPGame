@@ -13,7 +13,7 @@ import com.r.model.GameBoard;
  * @version 1.0
  */
 
-public class TestGameBoard1 {
+public class TestGameBoard {
 	GameBoard gameboard;
 	
 	/**
