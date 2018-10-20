@@ -19,7 +19,7 @@ import com.r.model.Map;
  * This class parses the input map file and creates the map.
  * it is also used to generate a map file from map object
  * 
- * @author Raghav verma
+ * @author Nayan Girase
  * @version 1.0.0.0
  */
 
