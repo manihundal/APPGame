@@ -18,7 +18,7 @@ import com.r.model.Player;
  * The class <code>TestPlayer</code> contains tests for the class 
  * <code> {@link Player}</code>
  * 
- * @author Raghav verma
+ * @author Manjinder Kaur
  * @version 1.0
  */
 
