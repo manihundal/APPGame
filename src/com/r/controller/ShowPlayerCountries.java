@@ -2,9 +2,6 @@ package com.r.controller;
 
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
-
-//import javax.swing.JComboBox;
-
 import com.r.model.Country;
 import com.r.utility.StaticVariables;
 
