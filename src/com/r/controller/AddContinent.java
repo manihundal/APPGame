@@ -19,7 +19,7 @@ import com.r.utility.StaticVariables;
  * This class performs the functioning of adding a continent according to the
  * events from the front end.
  * 
- * @author Raghav verma
+ * @author sukhmeet Kaur 
  * @version 1.0
  */
 
