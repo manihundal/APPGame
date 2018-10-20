@@ -14,8 +14,6 @@ import javax.swing.JMenuItem;
 import javax.swing.JPanel;
 import javax.swing.JScrollPane;
 
-//simport org.jgraph.JGraph;
-
 import com.r.controller.AddContinent;
 import com.r.controller.AddCountry;
 import com.r.controller.CreateMap;
