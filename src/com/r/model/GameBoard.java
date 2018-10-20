@@ -18,7 +18,7 @@ import com.r.utility.TurnPhases;
  * presentation the game.
  * 
  * @author Raghav verma
- * @version 1.0.0.0
+ * @version 1.0.0
  */
 
 public class GameBoard {
