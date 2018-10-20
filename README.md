@@ -30,6 +30,8 @@ Eclipse - Java IDE
 Junit 4 - Unit test framework
 
 
-
-
+##References
+1) https://www.tutorialspoint.com/java/java_applet_basics.html
+2) https://www.javatpoint.com/java-jmenuitem-and-jmenu
+3) https://github.com/badoualy/got-conquest/tree/master/src/gotconquest/core
 
