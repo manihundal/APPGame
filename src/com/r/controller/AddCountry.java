@@ -22,7 +22,7 @@ import com.r.view.ApplicationWindow;
  * This class performs the functioning of adding a Country according to the
  * events from the front end.
  * 
- * @author Raghav verma
+ * @author Sukhmeet Kaur
  * @version 1.0
  */
 public class AddCountry extends JFrame implements ActionListener {
