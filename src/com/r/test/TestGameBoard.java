@@ -11,7 +11,7 @@ import com.r.model.GameBoard;
 /**
  * The class <code>TestGameBoard</code> contains tests for the class 
  * <code> {@link GameBoard}</code>
- * @author Raghav verma
+ * @author raghav verma
  * @version 1.0
  */
 
