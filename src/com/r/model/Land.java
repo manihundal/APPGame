@@ -4,7 +4,7 @@ import com.r.model.ILand;
 
 /**
  * This class represents the base class for continent and country class.
- *  it maintains variables such as id and name.
+ * it maintains variables such as id and name.
  * 
  * @author Ravneet Singh Brar
  * @version 1.0.0.0
