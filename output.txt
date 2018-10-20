@@ -2,7 +2,7 @@
 author=Lazarus
 image=alabama.bmp
 wrap=yes
-scroll=No
+scroll=Yes
 warn=yes
 
 [Continents]
