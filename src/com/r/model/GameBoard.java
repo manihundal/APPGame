@@ -17,7 +17,7 @@ import com.r.utility.TurnPhases;
  * it provides all objects and methods needed for
  * presentation the game.
  * 
- * @author Raghav verma
+ * @author Sukhmeet kaur
  * @version 1.0.0
  */
 
