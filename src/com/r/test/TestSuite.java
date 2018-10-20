@@ -7,7 +7,7 @@ import org.junit.runners.Suite.SuiteClasses;
 /**
  * This is a test suite class for running all the tests in the game.
  * 
- * @author Ranjitha Shetty
+ * @author Ravneet Singh Brar
  * @version 1.0
  */
 @RunWith(Suite.class)
