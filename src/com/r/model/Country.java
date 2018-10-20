@@ -8,7 +8,7 @@ import com.r.model.Land;
  * it has methods which can change the state and return the
  * state of the object.
  * 
- * @author Raghav verma
+ * @author Manjinder Kaur 
  * @version 1.0.0.0
  */
 public class Country extends Land {
