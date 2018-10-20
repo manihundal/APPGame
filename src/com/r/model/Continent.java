@@ -26,7 +26,8 @@ public class Continent extends Land {
 	 *            this parameter represents the value of the control of the
 	 *            continent
 	 */
-	public Continent(String prm_name, int prm_control) {
+	public Continent(String prm_name, int prm_control) 
+	{
 		super(prm_name);
 		this.control = prm_control;
 	}
