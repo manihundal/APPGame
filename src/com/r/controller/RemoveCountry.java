@@ -30,7 +30,7 @@ import com.r.view.ApplicationWindow;
  * This class belongs to a listener which Removes a country to the map file based
  * on the events captured from the user interface.
  * 
- * @author Sandeep Swainch
+ * @author Ravneet Singh Brar
  * @version 1.0
  */
 public class RemoveCountry implements ActionListener {
