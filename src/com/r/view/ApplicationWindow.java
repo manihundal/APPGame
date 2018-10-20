@@ -42,8 +42,8 @@ import javax.swing.JLabel;
 /**
  * This class represents the main window of our game.  All event handlers registered to components
  * (menu items) of this class are instantiated with a reference to this class.
- * author Nayan Girase
- * version 1.0
+ * @author Nayan Girase
+ * @version 1.0
  */
 public class ApplicationWindow extends JFrame {
 
