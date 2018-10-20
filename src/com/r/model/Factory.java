@@ -8,7 +8,7 @@ import com.r.model.Land;
  * This class is used to construct objects of continent and country classes
  * 
  * @author Raghav verma
- * @version 1.0.0.0
+ * @version 1.0.0
  */
 
 public class Factory {
