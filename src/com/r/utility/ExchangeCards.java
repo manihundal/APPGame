@@ -5,7 +5,7 @@ package com.r.utility;
  * It has three types: infantry, cavalry and artillery
  * 
  * @author Nayan Girase
- * @version 1.0.0.0
+ * @version 1.0.0
  */
 public enum ExchangeCards {
 	Infantry, Cavalry, Artillery
