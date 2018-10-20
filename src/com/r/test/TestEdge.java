@@ -11,7 +11,7 @@ import com.r.model.Map;
 /**
  * The class <code>TestEdge</code> contains tests for the class 
  * <code> {@link Edge}</code>
- * @author Raghav verma
+ * @author Manjinder Kaur
  * @version 1.0
  */
 
