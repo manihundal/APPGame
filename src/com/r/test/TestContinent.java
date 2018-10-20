@@ -12,7 +12,7 @@ import com.r.model.Land;
 /**
  * The class <code>TestContinent</code> contains tests for the class 
  * <code> {@link Continent}</code>
- * @author Raghav verma
+ * @author Sukhmeet Kaur
  * @version 1.0
  */
 
