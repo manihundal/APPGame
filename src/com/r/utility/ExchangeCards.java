@@ -8,6 +8,6 @@ package com.r.utility;
  * @version 1.0.0
  */
 public enum ExchangeCards {
-	Infantry, Cavalry, Artillery
+       Infantry, Cavalry, Artillery
 
 }
