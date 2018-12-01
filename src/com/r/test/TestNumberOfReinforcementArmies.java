@@ -4,7 +4,6 @@ import static org.junit.Assert.*;
 
 import org.junit.Before;
 import org.junit.Test;
-
 import com.r.model.GameBoard;
 import com.r.model.Player;
 import com.r.utility.TurnPhases;
