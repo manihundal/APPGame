@@ -9,6 +9,7 @@ import java.awt.FlowLayout;
 import java.awt.Toolkit;
 
 import javax.swing.BoxLayout;
+
 import javax.swing.JFrame;
 import javax.swing.JMenu;
 import javax.swing.JMenuBar;
